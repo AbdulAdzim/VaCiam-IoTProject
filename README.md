@@ -1,16 +1,10 @@
-# smoke_guard
+# VaCiam - Smart based iot cigarettes and vape air monitoring system
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Microcontroller - esp32-cam-mb
+Sensor - Sensirion Sen55
+Database - Firebase,imgBB
+Server - Flask(Local)
+Network Protocol - mqtt
+Tunnel broker - ngrok
+IDE - VScode
+Design - canva education
