@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375118526069",
+    "project_id": "smokeguard-ac1bb",
+    "storage_bucket": "smokeguard-ac1bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375118526069:android:96d222f2c56c21953c2a3c",
+        "android_client_info": {
+          "package_name": "com.example.smoke_guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjsOHis4LJUtkYD7oC1oh8alYjpHDPyAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
